@@ -57,7 +57,7 @@ def sendmail():
     body = 'Check the link ' + URL #Body of the email
     msg = f"Subject: {subject}\n\n{body}" #Aggregation
     y=str(input("Enter your mail id:"))
-    server.sendmail('nadellaujwala22@gmail.com', y, msg) #Sending the email
+    server.sendmail('sanjanalakkimsetty2609@gmail.com', y, msg) #Sending the email
     
     print('Email Sent')
     
