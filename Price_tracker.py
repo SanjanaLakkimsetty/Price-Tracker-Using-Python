@@ -51,7 +51,7 @@ def sendmail():
     
     
     #Your email and app password. Follow the steps in the readme file to get your app password
-    server.login('nadellaujwala22@gmail.com', 'fwuvydkdzooqfjhe') 
+    server.login('sanjanalakkimsetty2609@gmail.com', 'fwuvydkdzooqfjhe') 
     
     subject = 'Hey! Price fell down' #Subject of the email
     body = 'Check the link ' + URL #Body of the email
